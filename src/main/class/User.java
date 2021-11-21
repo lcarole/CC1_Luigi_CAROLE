@@ -52,7 +52,7 @@ public class User {
             System.out.println("Vous vous êtes bien inscrit.");
         }
         else{
-            System.out.println("L'inscription n'est pas valide veuiller remplir tout les champs.\n");
+            System.out.println("L'inscription n'est pas valide veuiller remplir tout les champs.");
         }
     }
 }
